@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Steven Liu
+Steven Liu
 Web developer
 
 Show Contacts
